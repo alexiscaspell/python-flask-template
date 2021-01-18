@@ -1,4 +1,4 @@
-# TEMPLATE-PYTHON
+# PYTHON-FLASK-TEMPLATE
 
 > Proyecto base para aplicaciones REST con python
 
